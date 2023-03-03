@@ -1,0 +1,20 @@
+{
+  "name": "jira-clone-with-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ng serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kome-to/jira-clone-with-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kome-to/jira-clone-with-angular/issues"
+  },
+  "homepage": "https://github.com/Kome-to/jira-clone-with-angular#readme"
+}
